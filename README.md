@@ -8,4 +8,5 @@ yarn is not my project but i worked on this.
  then open control.cmd and type the following commands:
  cd files,
  yarn,
- yarn init
+ yarn init                                                                                                                                                                           NOTE: files is the folder of the project ;)
+ 
