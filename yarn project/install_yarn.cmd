@@ -4,5 +4,4 @@
 :: and
 :: "yarn init"
 @Echo off
-cd project files
 npm install --global yarn
